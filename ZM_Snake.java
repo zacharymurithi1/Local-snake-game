@@ -1,8 +1,8 @@
 /**
  * Write a description of class Snake here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Murugu Zachary
+ * @version (24/04/2021)
  */
 public class ZM_Snake
 {
