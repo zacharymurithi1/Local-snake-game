@@ -12,5 +12,16 @@ public class ZM_Snake
     public ZM_Snake() {
         // initialise instance variables        
     }
+    public void move(){
+        //Method for showing the direction the snake moves
+    }
+    public void  grow(){
+        //Method to show by how long the snake grows when it eats the prey
+    }
+    
+private void checkCrash(){
 
+   //Method for checking crash 
+}
+    
 }

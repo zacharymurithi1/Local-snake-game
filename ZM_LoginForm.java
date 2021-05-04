@@ -11,7 +11,7 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
 import javax.swing.BorderFactory;
-import.java.util.Scanner;
+import java.util.Scanner;
  
 /**
  * This program demonstrates how to use JFrame and LayoutManager.

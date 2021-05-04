@@ -2,6 +2,8 @@
 comment0.target=GameBoard
 comment1.params=
 comment1.target=GameBoard()
-comment2.params=g
-comment2.target=void\ paintComponent(java.awt.Graphics)
-numComments=3
+comment2.params=
+comment2.target=void\ generatePrey()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+numComments=4

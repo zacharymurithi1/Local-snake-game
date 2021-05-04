@@ -10,5 +10,14 @@ public class Prey {
      */
     public Prey()
     {
-    }    
+    }  
+    public void generateLocation(){
+    // Method for  generating the location of the prey
+}
+public void render(){
+    //method for rendering the images
+}
+private void initializeImages(){
+    //Method for initializing the images
+}
 }

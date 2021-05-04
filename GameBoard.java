@@ -13,6 +13,9 @@ public class GameBoard extends JPanel {
         setBackground(Color.black);
         setFocusable(true);        
     }
+    public void generatePrey(){
+        //A method for generating the food 
+    }
 
     @Override
     public void paintComponent(Graphics g) {
