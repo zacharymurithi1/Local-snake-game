@@ -4,7 +4,16 @@
  * @author Murugu Zachary
  * @version (24/04/2021)
  */
-public class ZM_Snake
+import java.awt.Graphics;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Image;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.ImageIcon;
+import javax.swing.JLabel;
+public class ZM_Snake 
+    
 {
     /**
      * Constructor for objects of class Snake
@@ -12,6 +21,8 @@ public class ZM_Snake
     public ZM_Snake() {
         // initialise instance variables        
     }
+    
+   
     public void move(){
         //Method for showing the direction the snake moves
     }
