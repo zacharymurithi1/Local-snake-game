@@ -1,9 +1,7 @@
 #BlueJ class context
 comment0.target=Prey
-comment0.text=\r\n\ Class\ Prey\ represents\ any\ prey\ object.\r\n\r\n\ @author\ \r\n\ @version\r\n
 comment1.params=
 comment1.target=Prey()
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Prey\r\n
 comment2.params=
 comment2.target=void\ generateLocation()
 comment3.params=

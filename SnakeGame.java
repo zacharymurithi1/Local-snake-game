@@ -1,6 +1,10 @@
 import java.awt.EventQueue;
 import javax.swing.JFrame;
 import java.lang.String;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import java.awt.GridBagConstraints;
+import java.awt.GridBagLayout;
 public class SnakeGame extends JFrame {
 
     public SnakeGame() {  
@@ -9,10 +13,13 @@ public class SnakeGame extends JFrame {
         private void initUI(){
             add(new GameBoard());
         setTitle("The Snake Game(c) Zachary");
-        setResizable(false);
+         setResizable(false);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        pack();        
+       
+        pack();  
+         
+      
     }
     
     
@@ -20,7 +27,8 @@ public class SnakeGame extends JFrame {
         EventQueue.invokeLater(() -> {
             //create the game with a game title as follow: The Snake Game (C) Your_Name
             JFrame sgame = new SnakeGame();
-            sgame.setVisible(true);
+            
+        sgame.setVisible(true);
         });
     }
 }
